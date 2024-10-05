@@ -41,8 +41,10 @@ const SidebarMobile = () => {
         </SheetHeader>
         <div className="h-full px-2 relative flex flex-col items-start">
           <div className="flex flex-col">
-            <h1 className="text-[#00e0a4] text-[1.75rem]">DevxHub</h1>
-            <h1 className="text-white text-[2rem] -mt-3">E-commerce</h1>
+            <h1 className="text-yellow-500 text-[1.75rem]">DevxHub</h1>
+            <h1 className="dark:text-white text-[2rem] -mt-3 text-black">
+              E-commerce
+            </h1>
           </div>
           <div className="flex flex-col gap-8 md:py-3 text-black dark:text-white ml-1 mt-6">
             <a
