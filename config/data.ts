@@ -1,0 +1,141 @@
+export const data = {
+  discover: [
+    "All",
+    "Bags",
+    "Food",
+    "Books",
+    "Cloths",
+    "Computer",
+    "Games",
+    "Graphics Card",
+    "Beauty Products",
+    "Laptop",
+    "Phone",
+    "Drone",
+    "Camera",
+  ],
+
+  products: [
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+    {
+      title: "Macbook Pro 13",
+      product_image:
+        "https://cdn.thewirecutter.com/wp-content/media/2023/11/laptops-2048px-8826.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      seller_image: "https://cdn-icons-png.flaticon.com/512/5853/5853761.png",
+      shop_name: "Eshop Spot",
+      regular_price: "1999",
+      discounted_price: "1000",
+      sold: "15",
+      rating: "4.3",
+    },
+  ],
+};
