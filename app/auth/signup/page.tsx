@@ -65,7 +65,7 @@ export default function SignupForm() {
             value={name}
             onChange={(e) => setName(e.target.value)}
             required
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 h-12 bg-white border-2 p-2"
+            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 h-12 bg-white border-2 p-2 text-black"
           />
         </div>
         <div>
@@ -81,7 +81,7 @@ export default function SignupForm() {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 h-12 bg-white border-2 p-2"
+            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 h-12 bg-white text-black border-2 p-2"
           />
         </div>
         <div>
@@ -97,7 +97,7 @@ export default function SignupForm() {
             value={password}
             onChange={(e) => setPassword(e.target.value)}
             required
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 h-12 bg-white border-2 p-2"
+            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 h-12 bg-white text-black border-2 p-2"
           />
         </div>
         <div>
@@ -113,7 +113,7 @@ export default function SignupForm() {
             value={avatar}
             onChange={(e) => setAvatar(e.target.value)}
             required
-            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 h-12 bg-white border-2 p-2"
+            className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 h-12 bg-white text-black border-2 p-2"
           />
         </div>
         {error && <p className="text-red-500 text-sm">{error}</p>}
